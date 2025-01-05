@@ -1,0 +1,1 @@
+# brevo-widget-hosting
